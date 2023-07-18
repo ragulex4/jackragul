@@ -10,7 +10,7 @@
 		</header>	
 		<hr>
 		<article>			
-			<section>.php
+			<section>
 				<h2>Login Details</h1>
                 <form action="login.php" method="POST">
                     <label>User Name</label>
@@ -24,7 +24,7 @@
 		<footer>
 			Developed by K Anbarasan
 		</footer>
-	</body>indx
+	</body>
 </html>
 
 
